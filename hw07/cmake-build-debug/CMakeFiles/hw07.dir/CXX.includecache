@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw07/Noble.cpp
+Noble.h
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw07/Noble.h
+Protector.h
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw07/Protector.h
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw07/Noble.h
+string
+-
+vector
+-
+iostream
+-
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw07/Protector.h
+string
+-
+vector
+-
+iostream
+-
+

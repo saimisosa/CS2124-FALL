@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="rec14" targetName="rec14" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8de85b67-ad67-4295-8d65-9a0d5c4364ac" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Uw6WPs4iPHXFf5V0eHrElVefq3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="rec14" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="rec14" TARGET_NAME="rec14" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="rec14" RUN_TARGET_NAME="rec14">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de85b67-ad67-4295-8d65-9a0d5c4364ac" name="Default Changelist" comment="" />
+      <created>1576255342120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576255342120</updated>
+      <workItem from="1576255346357" duration="10059000" />
+      <workItem from="1576265506054" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="733" height="252" key="GridCell.Tab.0.bottom" timestamp="1576265436371">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1576265436371" />
+    <state width="733" height="252" key="GridCell.Tab.0.center" timestamp="1576265436371">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1576265436371" />
+    <state width="733" height="252" key="GridCell.Tab.0.left" timestamp="1576265436370">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1576265436370" />
+    <state width="733" height="252" key="GridCell.Tab.0.right" timestamp="1576265436371">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1576265436371" />
+    <state width="733" height="252" key="GridCell.Tab.1.bottom" timestamp="1576265436373">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1576265436373" />
+    <state width="733" height="252" key="GridCell.Tab.1.center" timestamp="1576265436372">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1576265436372" />
+    <state width="733" height="252" key="GridCell.Tab.1.left" timestamp="1576265436372">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1576265436372" />
+    <state width="733" height="252" key="GridCell.Tab.1.right" timestamp="1576265436372">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="733" height="252" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1576265436372" />
+    <state x="544" y="163" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1576265265078">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="544" y="163" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.794@0.23.1440.794" timestamp="1576265265078" />
+    <state x="666" y="141" width="670" height="676" key="search.everywhere.popup" timestamp="1576264806834">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="666" y="141" width="670" height="676" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1576264806834" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="n" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/rec13/rec13.cpp
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+algorithm
+-
+string
+-
+set
+-
+map
+-
+

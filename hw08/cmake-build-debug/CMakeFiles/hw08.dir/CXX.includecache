@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw08/Polynomial.cpp
+Polynomial.h
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw08/Polynomial.h
+vector
+-
+iostream
+-
+string
+-
+
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/hw08/Polynomial.h
+vector
+-
+string
+-
+iostream
+-
+

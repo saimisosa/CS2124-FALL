@@ -1,0 +1,3 @@
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/rec14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/rec14/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Sandisk Xtreme External SSD/CS2124 Projects/rec14/cmake-build-debug/CMakeFiles/rec14.dir
